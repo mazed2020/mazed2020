@@ -225,8 +225,8 @@ Automation testing framework developed using Cypress and Jest for efficient UI a
 ## 🌍 Connect With Me
 
 * GitHub: https://github.com/mazed2020
-* LinkedIn: YOUR_LINKEDIN_URL
-* Email: YOUR_EMAIL
+* LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mdmazedulislammazed/)
+* Email: mazedulislam959@gmail.com
 
 ---
 
